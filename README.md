@@ -1,5 +1,6 @@
 # AI-Lab-2
-Problem Statement://
+Problem Statement:
+
 A.
 Read about the game of marble solitaire. Figure shows the initial board configuration. The goal is to reach the board configuration where only one marble is 
 left at the centre. 
